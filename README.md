@@ -4,6 +4,10 @@ This code was developed by Muhammad Shafiq (Web Developer at Solutionwin technol
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install all dependencies.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
